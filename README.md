@@ -4,8 +4,7 @@ This plugin for [stroopwafel](https://github.com/shinyquagsire23/stroopwafel) ch
 
 ## How to use
 
-- Copy the `wafel_payloader.ipx` to `/wiiu/ios_plugins`
-- Copy the PayloadFromRPX to `sd:/wiiu/root.rpx`
+- Copy the `5satausb.ipx` to `/wiiu/ios_plugins`
 
 
 ## Building
