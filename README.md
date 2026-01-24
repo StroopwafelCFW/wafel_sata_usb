@@ -1,9 +1,6 @@
 # wafel_payloader
 
-This plugin for [stroopwafel](https://github.com/shinyquagsire23/stroopwafel) allows you to load a payload.elf loader like **[PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX)** from SD
-
-- Patches the LoadFile IOSU functionto redirect `men.rpx` to `sd:/wiiu/root.rpx`
-- undos all patches once triggered to not interfere with mocha.
+This plugin for [stroopwafel](https://github.com/shinyquagsire23/stroopwafel) changes the type of a internal SATA connected HDD / SSD to the USB Type instead of MLC, so the Wii U allows you to store games on it, while the system still runs from the eMMC.
 
 ## How to use
 
