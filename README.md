@@ -1,6 +1,7 @@
 # wafel_sata_usb
 
 This plugin for [stroopwafel](https://github.com/shinyquagsire23/stroopwafel) changes the type of a internal SATA connected HDD / SSD to the USB Type instead of MLC, so the Wii U allows you to store games on it, while the system still runs from the eMMC.
+It uses the MLC key for the SATA HDD, so it can be easily switched between acting as MLC and USB.
 
 ## How to use
 
